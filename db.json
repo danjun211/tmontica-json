@@ -1,9 +1,9 @@
 {
   "menuAll": [
       {
-        categoryKo: "이달의 메뉴",
-        categoryEng: "monthly",
-        menus: [
+        "categoryKo": "이달의 메뉴",
+        "categoryEng": "monthly",
+        "menus": [
           {
             id: 1,
             nameKo: "아메리카노",
@@ -31,9 +31,9 @@
         ]
       },
       {
-        categoryKo: "커피/에스프레소",
-        categoryEng: "coffee",
-        menus: [
+        "categoryKo": "커피/에스프레소",
+        "categoryEng": "coffee",
+        "menus": [
           {
             id: 1,
             nameKo: "아메리카노",
@@ -41,17 +41,17 @@
             imgUrl: "/img/coffee-sample.png"
           },
           {
-            id: 2,
-            nameKo: "아메리카노",
-            nameEng: "americano",
-            imgUrl: "/img/coffee-sample.png"
+            "id": 2,
+            "nameKo": "아메리카노",
+            "nameEng": "americano",
+            "imgUrl": "/img/coffee-sample.png"
           }
         ]
       },
       {
-        categoryKo: "디저트",
-        categoryEng: "dessert",
-        menus: [
+        "categoryKo": "디저트",
+        "categoryEng": "dessert",
+        "menus": [
           {
             id: 3,
             nameKo: "갈릭퐁당브래드",
