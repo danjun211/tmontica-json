@@ -20,13 +20,13 @@
             "id": 3,
             "nameKo": "갈릭퐁당브래드",
             "nameEng": "americano",
-            "imgUrl": "/img/coffee-sample.png"
+            "imgUrl": "/img/bread-sample.jpg"
           },
           {
             "id": 4,
             "nameKo": "갈릭퐁당브래드",
             "nameEng": "americano",
-            "imgUrl": "/img/coffee-sample.png"
+            "imgUrl": "/img/bread-sample.jpg"
           }
         ]
       },
@@ -45,12 +45,6 @@
             "nameKo": "아메리카노",
             "nameEng": "americano",
             "imgUrl": "/img/coffee-sample.png"
-          },
-          {
-            "id": 3,
-            "nameKo": "갈릭퐁당브래드",
-            "nameEng": "americano",
-            "imgUrl": "/img/coffee-sample.png"
           }
         ]
       },
@@ -61,14 +55,14 @@
           {
             "id": 3,
             "nameKo": "갈릭퐁당브래드",
-            "nameEng": "americano",
-            "imgUrl": "/img/coffee-sample.png"
+            "nameEng": "bread",
+            "imgUrl": "/img/bread-sample.jpg"
           },
           {
             "id": 4,
             "nameKo": "갈릭퐁당브래드",
-            "nameEng": "americano",
-            "imgUrl": "/img/coffee-sample.png"
+            "nameEng": "bread",
+            "imgUrl": "/img/bread-sample.jpg"
           }
         ]
       }  
@@ -92,13 +86,13 @@
           "id": 3,
           "nameKo": "갈릭퐁당브래드",
           "nameEng": "americano",
-          "imgUrl": "/img/coffee-sample.png"
+          "imgUrl": "/img/bread-sample.jpg"
         },
         {
           "id": 4,
           "nameKo": "갈릭퐁당브래드",
           "nameEng": "americano",
-          "imgUrl": "/img/coffee-sample.png"
+          "imgUrl": "/img/bread-sample.jpg"
         }
       ]
     }
