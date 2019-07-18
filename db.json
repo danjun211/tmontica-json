@@ -71,5 +71,35 @@
             "imgUrl": "/img/coffee-sample.png"
           }
         ]
-      }  ]
+      }  
+  ],
+  "monthly": {
+      "size": 4,
+      "menus": [
+        {
+          "id": 1,
+          "nameKo": "아메리카노",
+          "nameEng": "americano",
+          "imgUrl": "/img/coffee-sample.png"
+        },
+        {
+          "id": 2,
+          "nameKo": "아메리카노",
+          "nameEng": "americano",
+          "imgUrl": "/img/coffee-sample.png"
+        },
+        {
+          "id": 3,
+          "nameKo": "갈릭퐁당브래드",
+          "nameEng": "americano",
+          "imgUrl": "/img/coffee-sample.png"
+        },
+        {
+          "id": 4,
+          "nameKo": "갈릭퐁당브래드",
+          "nameEng": "americano",
+          "imgUrl": "/img/coffee-sample.png"
+        }
+      ]
+    }
 }
