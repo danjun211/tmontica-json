@@ -5,66 +5,40 @@
         "categoryEng": "monthly",
         "menus": [
           {
-            id: 1,
-            nameKo: "아메리카노",
-            nameEng: "americano",
-            imgUrl: "/img/coffee-sample.png"
-          },
-          {
-            id: 2,
-            nameKo: "아메리카노",
-            nameEng: "americano",
-            imgUrl: "/img/coffee-sample.png"
-          },
-          {
-            id: 3,
-            nameKo: "갈릭퐁당브래드",
-            nameEng: "americano",
-            imgUrl: "/img/coffee-sample.png"
-          },
-          {
-            id: 4,
-            nameKo: "갈릭퐁당브래드",
-            nameEng: "americano",
-            imgUrl: "/img/coffee-sample.png"
-          }
-        ]
-      },
-      {
-        "categoryKo": "커피/에스프레소",
-        "categoryEng": "coffee",
-        "menus": [
-          {
-            id: 1,
-            nameKo: "아메리카노",
-            nameEng: "americano",
-            imgUrl: "/img/coffee-sample.png"
+            "id": 1,
+            "nameKo": "아메리카노",
+            "nameEng": "americano",
+            "imgUrl": "/img/coffee-sample.png"
           },
           {
             "id": 2,
             "nameKo": "아메리카노",
             "nameEng": "americano",
             "imgUrl": "/img/coffee-sample.png"
+          },
+          {
+            "id": 3,
+            "nameKo": "갈릭퐁당브래드",
+            "nameEng": "americano",
+            "imgUrl": "/img/coffee-sample.png"
+          },
+          {
+            "id": 4,
+            "nameKo": "갈릭퐁당브래드",
+            "nameEng": "americano",
+            "imgUrl": "/img/coffee-sample.png"
           }
         ]
       },
       {
+        "categoryKo": "커피/에스프레소",
+        "categoryEng": "coffee",
+        "menus": []
+      },
+      {
         "categoryKo": "디저트",
         "categoryEng": "dessert",
-        "menus": [
-          {
-            id: 3,
-            nameKo: "갈릭퐁당브래드",
-            nameEng: "americano",
-            imgUrl: "/img/coffee-sample.png"
-          },
-          {
-            id: 4,
-            nameKo: "갈릭퐁당브래드",
-            nameEng: "americano",
-            imgUrl: "/img/coffee-sample.png"
-          }
-        ]
-      }
-    ]
+        "menus": []
+      }    
+  ]
 }
