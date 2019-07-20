@@ -98,7 +98,7 @@
       ]
     },
     "coffee": {
-      "size": 4,
+      "size": 2,
       "menus": [
         {
           "id": 1,
@@ -114,37 +114,23 @@
         }
       ]
     },
-    "coffee": {
-      "size": 4,
+    "bread": {
+      "size": 2,
       "menus": [
         {
-          "id": 1,
-          "nameKo": "아메리카노",
-          "nameEng": "americano",
-          "imgUrl": "/img/coffee-sample.png"
+          "id": 3,
+          "nameKo": "갈릭퐁당브래드",
+          "nameEng": "galicbread",
+          "imgUrl": "/img/bread-sample.jpg"
         },
         {
-          "id": 2,
-          "nameKo": "카페라떼",
-          "nameEng": "cafelatte",
-          "imgUrl": "/img/coffee-sample.png"
+          "id": 4,
+          "nameKo": "갈릭퐁당브래드",
+          "nameEng": "galicbread",
+          "imgUrl": "/img/bread-sample.jpg"
         }
       ]
     },
-    "bread": [
-      {
-        "id": 3,
-        "nameKo": "갈릭퐁당브래드",
-        "nameEng": "galicbread",
-        "imgUrl": "/img/bread-sample.jpg"
-      },
-      {
-        "id": 4,
-        "nameKo": "갈릭퐁당브래드",
-        "nameEng": "galicbread",
-        "imgUrl": "/img/bread-sample.jpg"
-      }
-    ],
     "1": {
       "id": 1,
       "nameEng": "aemericano",
