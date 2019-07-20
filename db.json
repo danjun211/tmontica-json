@@ -1,5 +1,5 @@
 {
-  "menuAll": [
+  "menus": [
     {
       "categoryKo": "이달의 메뉴",
       "categoryEng": "monthly",
@@ -12,20 +12,20 @@
         },
         {
           "id": 2,
-          "nameKo": "아메리카노",
-          "nameEng": "americano",
+          "nameKo": "카페라떼",
+          "nameEng": "cafelatte",
           "imgUrl": "/img/coffee-sample.png"
         },
         {
           "id": 3,
           "nameKo": "갈릭퐁당브래드",
-          "nameEng": "americano",
+          "nameEng": "galicbread",
           "imgUrl": "/img/bread-sample.jpg"
         },
         {
           "id": 4,
           "nameKo": "갈릭퐁당브래드",
-          "nameEng": "americano",
+          "nameEng": "galicbread",
           "imgUrl": "/img/bread-sample.jpg"
         }
       ]
@@ -49,8 +49,8 @@
       ]
     },
     {
-      "categoryKo": "디저트",
-      "categoryEng": "dessert",
+      "categoryKo": "빵",
+      "categoryEng": "bread",
       "menus": [
         {
           "id": 3,
@@ -96,27 +96,98 @@
       }
     ]
   },
-  "menus": {
-    "coffee": {
-      "1": {
+  "coffee": {
+    "size": 4,
+    "menus": [
+      {
         "id": 1,
-        "nameEng": "aemericano",
         "nameKo": "아메리카노",
-        "description": "산미가 풍부한 티몽 아메리카노",
-        "imgUrl": "asdfasfadfasdfda",
-        "sellPrice": 1000,
-        "discountRate": 10,
-        "category": "coffee",
-        "stock": 10000,
-        "monthlyMenu": false,
-        "options": [
-          { "id": 1, "type": "Temperature", "name": "HOT", "price": 0 },
-          { "id": 2, "type": "Temperature", "name": "ICE", "price": 0 },
-          { "id": 3, "type": "Size", "name": "SizeUp", "price": 500 },
-          { "id": 4, "type": "Shot", "name": "AddShot", "price": 300 },
-          { "id": 5, "type": "Syrup", "name": "AddSyrup", "price": 300 }
-        ]
+        "nameEng": "americano",
+        "imgUrl": "/img/coffee-sample.png"
+      },
+      {
+        "id": 2,
+        "nameKo": "카페라떼",
+        "nameEng": "cafelatte",
+        "imgUrl": "/img/coffee-sample.png"
       }
+    ]
+  },
+  "bread": [
+    {
+      "id": 3,
+      "nameKo": "갈릭퐁당브래드",
+      "nameEng": "galicbread",
+      "imgUrl": "/img/bread-sample.jpg"
+    },
+    {
+      "id": 4,
+      "nameKo": "갈릭퐁당브래드",
+      "nameEng": "galicbread",
+      "imgUrl": "/img/bread-sample.jpg"
     }
+  ],
+  "menus/1": {
+    "id": 1,
+    "nameEng": "aemericano",
+    "nameKo": "아메리카노",
+    "description": "산미가 풍부한 티몽 아메리카노",
+    "imgUrl": "/img/coffee-sample.png",
+    "sellPrice": 1000,
+    "discountRate": 0,
+    "category": "coffee",
+    "stock": 10000,
+    "monthlyMenu": false,
+    "options": [
+      { "id": 1, "type": "Temperature", "name": "HOT", "price": 0 },
+      { "id": 2, "type": "Temperature", "name": "ICE", "price": 0 },
+      { "id": 3, "type": "Size", "name": "SizeUp", "price": 500 },
+      { "id": 4, "type": "Shot", "name": "AddShot", "price": 300 },
+      { "id": 5, "type": "Syrup", "name": "AddSyrup", "price": 300 }
+    ]
+  },
+  "menus/2": {
+    "id": 2,
+    "nameEng": "cafelatte",
+    "nameKo": "카페라떼",
+    "description": "산미가 풍부한 티몽 아메리카노",
+    "imgUrl": "/img/coffee-sample.png",
+    "sellPrice": 1000,
+    "discountRate": 0,
+    "category": "coffee",
+    "stock": 10000,
+    "monthlyMenu": false,
+    "options": [
+      { "id": 1, "type": "Temperature", "name": "HOT", "price": 0 },
+      { "id": 3, "type": "Size", "name": "SizeUp", "price": 500 },
+      { "id": 4, "type": "Shot", "name": "AddShot", "price": 300 },
+      { "id": 5, "type": "Syrup", "name": "AddSyrup", "price": 300 }
+    ]
+  },
+  "menus/3": {
+    "id": 3,
+    "nameEng": "galicbread",
+    "nameKo": "갈릭퐁당브래드",
+    "description": "산미가 풍부한 티몽 아메리카노",
+    "imgUrl": "/img/bread-sample.jpg",
+    "sellPrice": 1000,
+    "discountRate": 0,
+    "category": "bread",
+    "stock": 10000,
+    "monthlyMenu": false,
+    "options": []
+  },
+  "menus/4": {
+    "id": 4,
+    "nameEng": "galicbread",
+    "nameKo": "갈릭퐁당브래드",
+    "description": "산미가 풍부한 티몽 아메리카노",
+    "imgUrl": "/img/bread-sample.jpg",
+    "sellPrice": 1000,
+    "discountRate": 0,
+    "category": "bread",
+    "stock": 10000,
+    "monthlyMenu": false,
+    "options": []
   }
 }
